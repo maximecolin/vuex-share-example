@@ -2,6 +2,8 @@
 
 > Example of a Vuex store shared between two Vue instance.
 
+[Demo](https://maximecolin.github.io/vuex-share-example/)
+
 ## Build Setup
 
 ``` bash
